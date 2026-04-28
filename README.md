@@ -25,7 +25,7 @@ The course focused on:
 ├── assignment_1/
 |   ├── datasets/
 │       ├── salary_data.csv
-<!-- │       ├── stats_females.csv -->
+│       ├── stats_females.csv
 │   ├── Assignment_1.pdf
 │   ├── ML_Assignment_1.ipynb
 ├── assignment_2/
