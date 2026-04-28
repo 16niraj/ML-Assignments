@@ -23,6 +23,9 @@ The course focused on:
 
 ```
 ├── assignment_1/
+|   ├── datasets/
+│       ├── salary_data.csv
+<!-- │       ├── stats_females.csv -->
 │   ├── Assignment_1.pdf
 │   ├── ML_Assignment_1.ipynb
 ├── assignment_2/
@@ -40,10 +43,10 @@ The course focused on:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/ML-Assignments.git
-cd your-repo-name
+git clone https://github.com/16niraj/ML-Assignments.git
+cd ML-Assignments
 ```
-3. Run Jupyter Notebook / VS Code notebooks to explore assignments.
+2. Run Jupyter Notebook / VS Code notebooks to explore assignments.
 
 ---
 
